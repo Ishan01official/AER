@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Secrets / local configuration
+*.pem
+*.key
+secrets/
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build / cache
+build/
+dist/
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Large/local generated data
+data/raw/
+data/processed/
+artifacts/
+logs/
+
+# Simulation/generated outputs
+simulation/output/
+experiments/**/results/raw/
