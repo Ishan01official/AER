@@ -83,3 +83,7 @@ The archive should distinguish:
 ## Roadmap
 
 See [docs/roadmap.md](docs/roadmap.md) for the initial project path and [docs/architecture/system-overview.md](docs/architecture/system-overview.md) for the proposed system boundaries.
+
+## DJI case study and development guide
+
+See [the DJI case study](research/case-studies/dji/README.md) for DJI's origins, drone system architecture, subsystem development, worldwide and Indian sourcing, and a proposed AER roadmap with illustrative budgets. Manufacturer claims, engineering proposals and measured results are kept distinct; no hardware has been procured or validated by this study.
