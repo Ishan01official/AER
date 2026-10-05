@@ -16,3 +16,7 @@ Clearly separate:
 4. what AER has experimentally measured.
 
 Use stable links/identifiers such as DOI, arXiv ID, repository commit/tag and publication date whenever possible.
+
+## Drone Atlas
+
+See [drone-atlas/README.md](drone-atlas/README.md) for the expandable cross-platform research library, datasets, source register, coverage matrix and development experiments. The existing case studies and dated briefings are preserved and linked.

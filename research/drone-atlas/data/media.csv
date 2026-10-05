@@ -1,0 +1,11 @@
+media_id,kind,url,creator,publication_date,caption,useful_timestamps,inspection,reuse_status,source_ids,access_date
+V01,image,https://www.nationalmuseum.af.mil/Upcoming/Photos/igphoto/2003357307/,National Museum of USAF; photographer unknown,unknown,Museum reproduction of Kettering Bug,unknown,search_description,Reuse restrictions need checking,R006,2026-10-05
+V02,image_animation,https://www.jpl.nasa.gov/images/pia24586-perseverances-navcam-view-of-ingenuitys-first-flight/,NASA/JPL-Caltech,2021-04-19,Ingenuity first flight observed by rover,unknown,page_only; footage_not_played,Consult JPL image policy; linked only,R026,2026-10-05
+V03,video_source_page,https://wyss.harvard.edu/news/the-robobee-flies-solo/,Harvard Microrobotics Lab / Harvard SEAS,2019-06-26,Observe lab lighting and flapping flight,unknown,article_only; video_retrieval_failed,Not established; linked only,R024,2026-10-05
+V04,schematic,https://www.bitcraze.io/documentation/hardware/crazyflie_2_1_brushless/cf2.1_bl_schematics_Rev.G.pdf,Bitcraze,unknown,Controller radio and motor interfaces,unknown,search_description,Document license review pending,R019,2026-10-05
+V05,video_index,https://www.dji.com/mini-4-pro/video,DJI,unknown,Official handling and camera workflow tutorials,unknown,page_only; footage_not_played,Proprietary; linked only,R054,2026-10-05
+V06,report_figures,https://ntrs.nasa.gov/citations/20170007194,NASA Langley,2017,Tiltwing research flight configuration,unknown,record_only,US government work metadata; figure-level review pending,R031,2026-10-05
+V07,diagrams,https://docs.px4.io/v1.16/en/flight_stack/controller_diagrams,PX4 contributors,unknown,Cascaded control and signal flow,unknown,document_text,Figure-level reuse review pending,R055,2026-10-05
+V08,design_reference,https://www.st.com/en/evaluation-tools/steval-esc001v1.html,STMicroelectronics,unknown,ESC board and schematic/BOM resources,unknown,page_only,Document rights review pending,R058,2026-10-05
+V09,manufacturing_page,https://www.lioncircuits.com/pcb-assembly,LionCircuits,unknown,Assembly-service and inspection reference,unknown,page_only,No factory/photo audit; linked only,R051,2026-10-05
+V10,brochure_figures,https://wingtra.com/wp-content/uploads/Wingtra-Technical-Specifications.pdf,Wingtra,2024-08,Airframe payload and conditions,unknown,pdf_text,Copyright Wingtra; linked only,R022,2026-10-05

@@ -87,3 +87,7 @@ See [docs/roadmap.md](docs/roadmap.md) for the initial project path and [docs/ar
 ## DJI case study and development guide
 
 See [the DJI case study](research/case-studies/dji/README.md) for DJI's origins, drone system architecture, subsystem development, worldwide and Indian sourcing, and a proposed AER roadmap with illustrative budgets. Manufacturer claims, engineering proposals and measured results are kept distinct; no hardware has been procured or validated by this study.
+
+## Drone research atlas
+
+The [Drone Atlas](research/drone-atlas/README.md) expands the existing DJI study with a multidimensional taxonomy, sourced history, platform data, subsystem engineering, global/Indian supply chains, and a civilian phone-to-prototype roadmap. Its coverage matrix and source register distinguish researched findings from open questions.

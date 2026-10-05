@@ -1,0 +1,45 @@
+coverage_id,topic,depth,path,remaining_gap,source_ids,checked_date
+C001,multirotor quad,deep,platforms/dji-mini-4-pro.md,independent measured comparison,R001;R016,2026-10-05
+C002,hexacopter,partial,taxonomy.md,configuration-specific geometry and failure evidence,R030,2026-10-05
+C003,octocopter coaxial,partial,taxonomy.md,motor-out controllability and matched power data,R038,2026-10-05
+C004,fixed-wing,partial,taxonomy.md,civilian launch/recovery case and detailed mass budget,R029,2026-10-05
+C005,single-rotor helicopter,partial,history.md,current RMAX-family specification and service evidence,R028,2026-10-05
+C006,hybrid tiltrotor,partial,taxonomy.md,exact Trinity mechanism/specification review,R023,2026-10-05
+C007,tiltwing,partial,taxonomy.md,GL-10 full report reproduction,R031,2026-10-05
+C008,tailsitter,partial,platforms/comparisons.md,independent endurance and lidar configuration,R022,2026-10-05
+C009,lift-plus-cruise,open,taxonomy.md,fully reviewed representative platform,,2026-10-05
+C010,flapping bio-inspired,partial,history.md,paper-level analysis and later systems,R024,2026-10-05
+C011,micro nano indoor,deep,platforms/crazyflie.md,hardware-software compatibility reproduction,R016,2026-10-05
+C012,lighter-than-air,candidate,taxonomy.md,full AirJelly document review and operational alternatives,R032,2026-10-05
+C013,tethered,partial,taxonomy.md,cable and ground-system mass/power,R030,2026-10-05
+C014,high-altitude endurance,partial,history.md,independent confirmation and service maturity,R027,2026-10-05
+C015,FPV racing,open,taxonomy.md,current representative platform and latency protocol,,2026-10-05
+C016,consumer cinematic professional imaging,partial,platforms/dji-mini-4-pro.md,professional payload and image-quality benchmark,R001,2026-10-05
+C017,mapping surveying,partial,platforms/comparisons.md,checkpoint protocol and independent accuracy,R022,2026-10-05
+C018,agriculture,partial,supply-chain/README.md,flow-rate validation and local certification,R028;R038;R065,2026-10-05
+C019,inspection,partial,subsystems/engineering-map.md,field failure/coverage evidence,R033,2026-10-05
+C020,logistics,candidate,taxonomy.md,current deployment verification,R034,2026-10-05
+C021,emergency conservation science,partial,taxonomy.md,mission-specific cases beyond Ingenuity,R025,2026-10-05
+C022,docking,partial,subsystems/engineering-map.md,repeat landing/charging and weather tests,R037,2026-10-05
+C023,coordinated multi-drone,partial,challenges.md,paper reproduction and hardware-generation compatibility,R020;R021,2026-10-05
+C024,military public history taxonomy,partial,taxonomy.md,more public categories and supply histories; no operational build guidance,R029,2026-10-05
+C025,adjacent ground surface underwater,candidate,taxonomy.md,dedicated interface comparison,R009,2026-10-05
+C026,historical timeline,partial,history.md,pre-1987; Cold War; corroborated firsts; 2026 sweep,R006;R007;R008,2026-10-05
+C027,DJI company,partial,../case-studies/dji/README.md,independent history and board-revision teardowns,R035;R036,2026-10-05
+C028,ArduPilot PX4,deep,platforms/open-ecosystems.md,actual pinned baseline and independent history,R008;R009;R010,2026-10-05
+C029,aerodynamics structure thermal,partial,subsystems/engineering-map.md,materials/coupons/modal and thermal measurements,R014;R062,2026-10-05
+C030,propulsion batteries power,deep,subsystems/propulsion-energy.md,bench validation and selected BOM,R014;R048;R058;R061,2026-10-05
+C031,flight controller real-time,partial,subsystems/engineering-map.md,timing traces and board review,R011;R045,2026-10-05
+C032,sensors state estimation control,deep,subsystems/state-estimation.md,actual calibration and held-out validation,R003;R013;R055,2026-10-05
+C033,communications spectrum ground station,partial,subsystems/engineering-map.md,current lawful radio settings and link protocol,R015,2026-10-05
+C034,camera optics ISP gimbal,partial,phone-mvp.md,iOS research and hardware comparison,R004;R005;R059,2026-10-05
+C035,vision mapping autonomy,partial,subsystems/engineering-map.md,primary paper reproduction,R033,2026-10-05
+C036,companion computing logs,partial,subsystems/engineering-map.md,application power/thermal/latency benchmarks,R060,2026-10-05
+C037,payload landing docking,partial,subsystems/engineering-map.md,interface-control document and bench data,R037,2026-10-05
+C038,cybersecurity reliability failsafe,partial,subsystems/engineering-map.md,update/fault assurance and threat-model tests,R015,2026-10-05
+C039,global Indian supply chain,partial,supply-chain/README.md,origin audits; actual quotes; qualified substitutes,R045;R049;R050;R051;R052;R063,2026-10-05
+C040,Indian regulations trade licensing,partial,supply-chain/regulation.md,full current consolidation and SKU/site decision,R039;R040;R041;R043;R066,2026-10-05
+C041,civilian roadmap phone,deep,development-path.md,requirements selection and implementation,R004;R005;R012,2026-10-05
+C042,future research scenarios,partial,challenges.md,primary-paper depth and quantitative operating costs,R024;R027,2026-10-05
+C043,images video original diagrams,partial,visuals.md,actual footage inspection; rights-cleared embeds; timestamps,R026;R054,2026-10-05
+C044,patents original teardowns,open,open-questions.md,primary patents and revision-specific teardown evidence,,2026-10-05

@@ -1,0 +1,15 @@
+observation_id,platform_id,metric,operator,value,unit,configuration,test_conditions,evidence,source_ids,checked_date
+O001,P01,flight_time,=,2040,s,standard battery,6 m/s; sea-level-equivalent; photo mode; depletion,M,R001,2026-10-05
+O002,P01,hover_time,=,1800,s,standard battery,laboratory; battery 100 to 0 percent; not mission reserve,M,R001,2026-10-05
+O003,P01,battery_energy,=,68256,J,standard battery,nominal 18.96 Wh multiplied by 3600,M,R001,2026-10-05
+O004,P01,link_range,=,20000,m,FCC,unobstructed; interference-free; not mission radius,M,R001,2026-10-05
+O005,P01,link_range,=,10000,m,CE,unobstructed; interference-free; not mission radius,M,R001,2026-10-05
+O006,P02,flight_time,=,600,s,stock battery,protocol not specified in extracted datasheet,M,R016,2026-10-05
+O007,P02,recommended_payload,=,0.04,kg,stock configuration,not simultaneous endurance guarantee,M,R016,2026-10-05
+O008,P03,flight_time,<=,3540,s,headline maximum,maximum tested; payload conditions not fully specified,M,R022,2026-10-05
+O009,P03,flight_time,=,2940,s,RGB61; 0-500 m takeoff altitude,brochure mission model; do not conflate with headline,M,R022,2026-10-05
+O010,P03,flight_time,=,2280,s,RGB61; 2000 m takeoff altitude,brochure mission model; different cruise speed,M,R022,2026-10-05
+O011,P03,cruise_speed,=,16,m/s,RGB61; 0-500 m takeoff altitude,brochure mission reference,M,R022,2026-10-05
+O012,P06,electrical_power,=,0.12,W,2019 X-Wing,intense laboratory lighting; not outdoor autonomous flight,M,R024,2026-10-05
+O013,P07,demonstrated_duration,=,5813520,s,flight ended 2025-04-28,67 days 6 hours 52 minutes; manufacturer reported,M,R027,2026-10-05
+O014,P08,demonstrated_duration,=,180000,s,Orion 2 vendor test,50 hours; external ground energy,M,R030,2026-10-05
