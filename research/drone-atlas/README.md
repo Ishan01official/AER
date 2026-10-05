@@ -12,7 +12,8 @@
 6. [Global/Indian supply chains](supply-chain/README.md) and [regulatory evidence](supply-chain/regulation.md).
 7. [Civilian development path](development-path.md) and [phone capture MVP](phone-mvp.md).
 8. [Challenges and future scenarios](challenges.md), [visual reference catalog](visuals.md), [open questions](open-questions.md).
-9. [Dataset schema](data/schema.md), [source register](sources.md), [research changelog](CHANGELOG.md).
+9. [Research-paper analysis](research-papers.md) and [evaluation protocol](evaluation-protocol.md).
+10. [Dataset schema](data/schema.md), [source register](sources.md), [research changelog](CHANGELOG.md).
 
 ## What this adds to AER
 

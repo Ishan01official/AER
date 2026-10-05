@@ -9,3 +9,4 @@ V07,diagrams,https://docs.px4.io/v1.16/en/flight_stack/controller_diagrams,PX4 c
 V08,design_reference,https://www.st.com/en/evaluation-tools/steval-esc001v1.html,STMicroelectronics,unknown,ESC board and schematic/BOM resources,unknown,page_only,Document rights review pending,R058,2026-10-05
 V09,manufacturing_page,https://www.lioncircuits.com/pcb-assembly,LionCircuits,unknown,Assembly-service and inspection reference,unknown,page_only,No factory/photo audit; linked only,R051,2026-10-05
 V10,brochure_figures,https://wingtra.com/wp-content/uploads/Wingtra-Technical-Specifications.pdf,Wingtra,2024-08,Airframe payload and conditions,unknown,pdf_text,Copyright Wingtra; linked only,R022,2026-10-05
+V11,video,https://www.youtube.com/watch?v=fBiataDpGIo,Research video; uploader identity not verified,2023,Swift racing demonstration; examine known-track context and sensing,unknown,landing_page_only; footage_not_played,unknown; linked only,R074;R073,2026-10-05

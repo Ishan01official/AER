@@ -20,3 +20,7 @@ Original diagrams in [estimation](subsystems/state-estimation.md) and [supply ch
 ## Next visual work
 
 Inspect original video footage and record useful timestamps with the exact URL, publisher and date. Retrieve a rights-clear early aviation image, one original model-specific teardown and one manufacturing-lab reference. A teardown must identify the sampled model/revision and distinguish readable markings from inferred component identity. This release does not contain a verified teardown photograph or component-level DJI BOM.
+
+## V11 — research demonstration video
+
+[Champion-level Drone Racing using Deep Reinforcement Learning](https://www.youtube.com/watch?v=fBiataDpGIo), associated with the 2023 Swift research [R073](sources.md#r073), [R074](sources.md#r074). Landing page located; footage not played, uploader identity not verified in retrieved text, exact publication day and useful timecodes unknown. Link only; rights unverified. Use the written paper to distinguish race-time onboard sensing from development-time external measurements.

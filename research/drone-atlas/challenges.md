@@ -39,3 +39,7 @@ RoboBee demonstrates why maturity labels matter: the cited untethered system rel
 5. Acquire independent comparative performance evidence and original teardown/patent records.
 
 The useful research outcome is a decision that changes because evidence improved, including a decision to postpone hardware.
+
+## Research-to-experiment expansion
+
+The [paper analysis](research-papers.md) now examines VINS-Mono, ORB-SLAM3, FAST-LIVO2 and Swift, with dependencies and bounded civilian experiments. The [evaluation protocol](evaluation-protocol.md) separates availability, accuracy, latency and data quality. These are literature analyses and proposals, not reproduced results.

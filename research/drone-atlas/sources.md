@@ -267,3 +267,35 @@ Machine-readable metadata: [sources.csv](data/sources.csv).
 ## R066
 
 [Parliamentary answer on drones](https://sansad.in/getFile/annex/271/AU16_BZJkhB.pdf?source=pqars) — Ministry of Civil Aviation / Rajya Sabha. Publication: 2026-07-20. Version: Unstarred Question 16. Retrieval: `full_text`. Limit: Official contemporary summary; not consolidated legal text.
+
+## R067
+
+[VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator](https://arxiv.org/abs/1708.03852) — Tong Qin; Peiliang Li; Shaojie Shen. Publication: 2017-08-13. Access: 2026-10-05. Version: arXiv 1708.03852 v1. Retrieval: page/document text; Abstract/metadata reviewed; not a full quantitative reproduction.
+
+## R068
+
+[VINS-Mono official repository](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) — HKUST Aerial Robotics. Publication: unknown. Access: 2026-10-05. Version: master unpinned; README prerequisites inspected. Retrieval: page/document text; Repository documentation inspected; no installation or execution.
+
+## R069
+
+[ORB-SLAM3 paper](https://arxiv.org/abs/2007.11898) — Carlos Campos et al.. Publication: 2021-04-23. Access: 2026-10-05. Version: arXiv 2007.11898 v2; first submitted 2020-07-23. Retrieval: page/document text; Abstract/metadata reviewed; dataset claims not independently reproduced.
+
+## R070
+
+[ORB-SLAM3 official repository](https://github.com/UZ-SLAMLab/ORB_SLAM3) — UZ-SLAMLab. Publication: 2021-12-22. Access: 2026-10-05. Version: README V1.0; repository unpinned. Retrieval: page/document text; License and documented examples/prerequisites; no execution.
+
+## R071
+
+[FAST-LIVO2: Fast Direct LiDAR-Inertial-Visual Odometry](https://arxiv.org/html/2408.14035v2) — Chunran Zheng et al.. Publication: 2024-08-28. Access: 2026-10-05. Version: arXiv v2; first submitted 2024-08-26. Retrieval: page/document text; Paper text and exposure/evaluation sections inspected; no reproduction.
+
+## R072
+
+[FAST-LIVO2 official repository](https://github.com/hku-mars/FAST-LIVO2) — HKU MARS. Publication: 2025-01-23. Access: 2026-10-05. Version: Code release date in README; current main unpinned. Retrieval: page/document text; Repository claims T-RO acceptance 2024-10-01; dependencies/hardware must be pinned.
+
+## R073
+
+[Champion-level drone racing using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06419-4) — Elia Kaufmann et al.; Nature. Publication: 2023-08-30. Access: 2026-10-05. Version: Nature 620 982-987; DOI 10.1038/s41586-023-06419-4. Retrieval: page/document text; Article architecture and experimental setup inspected; no AER reproduction.
+
+## R074
+
+[Champion-level Drone Racing using Deep Reinforcement Learning video](https://www.youtube.com/watch?v=fBiataDpGIo) — Research video; uploader identity not verified in retrieved page. Publication: 2023. Access: 2026-10-05. Version: video landing page. Retrieval: page/document text; Title/page retrieved; footage not played; timestamps and reuse unknown.

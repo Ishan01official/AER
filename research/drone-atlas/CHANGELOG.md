@@ -11,3 +11,11 @@ Evidence advances: captured versioned PX4 references, Android clock constraints,
 Verification: run the validator and review diff before commit. Exact commit and remote verification are reported in the delivery message, avoiding a self-referential commit hash in this file.
 
 Remaining: full current legal consolidation, independent performance tests, complete 2026 research/product sweep, archival gaps, patents, original teardowns, footage timestamps, supplier quotes and BOM origin audits. Next: primary research-paper analyses tied to feasible AER experiments.
+
+## 2026-10-06 — batch 2: research-to-experiment expansion
+
+Evidence cutoff remains 2026-10-05. Added VINS-Mono, ORB-SLAM3, FAST-LIVO2 and Swift analyses, explicit reproduction limits, dependencies and feasible civilian experiments. Added an evaluation protocol covering input quality, initialization/tracking availability, trajectory alignment, latency, controlled perturbations and held-out sessions.
+
+Updated index, challenge links, source/coverage/media registers and visual references. Batch 1 was published and remote-verified at `cb6439d95876fdc6a5bedd548ead4aa875a0ffee`; direct terminal push lacked credentials, so the connected GitHub API published the identical reviewed tree.
+
+No papers were experimentally reproduced. Next priorities remain capability-aware phone recording, one pinned public-data/simulation baseline, complete configuration-specific legal verification, independent platform tests and archival/teardown expansion.
