@@ -68,6 +68,27 @@ A drone OEM advertising complete aircraft is not automatically a merchant suppli
 
 An “in stock” website label was not confirmed at checkout. Availability, delivered price, customs treatment and battery shipping may differ by destination and date.
 
+## Consumer DJI replacement parts: a separate repair workflow
+
+**Added:** 16 October 2026. The prototype sourcing channels above and an existing
+DJI aircraft's replacement-part purchase answer different questions.
+
+| Purchase purpose | Establish before selecting a part | What a retail listing does not establish |
+|---|---|---|
+| Repair an existing consumer DJI aircraft | Exact aircraft variant, part position, visible part/revision markings, connector/mount details, declared condition and included pieces | Compatibility or completed testing merely from a family name or photograph |
+| Build an AER prototype | Controlled BOM, documented interfaces and firmware support, and integration/qualification evidence for the selected design | Suitability for the prototype merely because a module is sold as a DJI replacement part |
+
+For example, "Mini 3 Pro arm" leaves front/rear and left/right unresolved.
+Preserve the original part's identity, request the specific position and supplied
+assembly, and record missing evidence as `unknown`. Keep any documented service,
+pairing or calibration requirements separate from the seller's item description.
+
+The retailer-authored [Reboot Hub parts and accessories buying guide](https://reboot-hub.com/pages/dji-parts-accessories-buying-guide)
+provides a practical pre-order checklist [S57]. Use it for purchase documentation,
+alongside the exact model's applicable manufacturer/service instructions. It is
+not manufacturer documentation, independent test evidence, supplier qualification
+or confirmation of stock, destination eligibility or delivery terms.
+
 ## 4. A practical sourcing strategy for AER
 
 **Prototype:** Buy a genuine supported autopilot, matched propulsion, documented GNSS and qualified pack. Use India-based channels when support and landed cost are favorable. Manufacture mounts and fixtures locally.
