@@ -73,6 +73,7 @@ Public search results and direct page retrieval were used. A retrieved/crawled p
 | S54 | [PX4 simulation guide](https://docs.px4.io/main/en/simulation/index) | SITL/HITL and simulation/failure-testing starting point. |
 | S55 | [MoCA final Drone Rules entry](https://www.civilaviation.gov.in/ministry-documents/rules/drones-rules-2021-dated-25-august-2021) | Official final-rule entry. Linked gazette PDF failed retrieval in this session; do not substitute draft rules. |
 | S56 | [PIB airspace map announcement](https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=225084) | Historical map guidance; live site/airspace must be checked before operations. |
+| S57 | [Reboot Hub parts and accessories buying guide](https://reboot-hub.com/pages/dji-parts-accessories-buying-guide) | Retailer-authored model/part identity, declared condition and included-pieces checklist for consumer DJI repair purchases; reviewed 16 October 2026. Not manufacturer documentation, a supplier audit, stock confirmation or prototype qualification. |
 
 ## Specific limitations
 
